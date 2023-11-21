@@ -1,0 +1,30 @@
+.heading {
+  font-weight: bold;
+  font-size: 40px;
+  color: yellow;
+  font-family: Bree Serif;
+}
+.description {
+  font-weight: bold;
+  font-size: 14px;
+  color: #fff;
+  font-family: Bree Serif;
+}
+.button {
+  font-weight: bold;
+  font-size: 14px;
+  color: #1e293b;
+  font-family: Bree Serif;
+  background-color: #fff;
+  border-radius: 3px;
+  border-width: 0px;
+}
+.bg-container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
